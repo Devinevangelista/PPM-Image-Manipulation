@@ -1,6 +1,6 @@
-This code manipulates PPM images using C
+PPM Image Manipulation Project
 
-When ran, the makefile prompts the user to either
+When the makefile is ran, it will prompt the user to:
 
 reduce the size of the image by halving the amount of total pixels within the array
 superimpose a greenscreen image onto another image by changing all the green pixels to the other image.
